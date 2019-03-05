@@ -5,4 +5,4 @@ tagline: Personal Website
 description: A personal webpage for Adithya Chari.
 ---
 
-Hi my name is Adithya
+# Hi my name is Adithya
