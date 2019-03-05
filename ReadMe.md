@@ -2,4 +2,4 @@
 
 A personal webpage for Adithya Chari.
 
-Page: [Adithya](adchari.github.io)
+Page: [Adithya](http://adchari.github.io)
