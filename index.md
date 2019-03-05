@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Adithya Chari
 tagline: Personal Website
 description: A personal webpage for Adithya Chari.
