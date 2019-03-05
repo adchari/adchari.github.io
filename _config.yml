@@ -2,6 +2,9 @@ theme: jekyll-theme-slate
 exclude: ["ReadMe.md"]
 
 title : Adithya Chari
+description: A personal webpage for Adithya Chari
+logo: assets/profilepic.jpg
+show_downloads: true
 author : 
   name : Adithya Chari
   email : adithya.chari@gmail.com
