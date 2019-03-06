@@ -30,4 +30,4 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
 
 # [Experience](pages/experience.md)
 
-# [Personal Projects](pages/projects.md)
+# [Projects](pages/projects.md)
