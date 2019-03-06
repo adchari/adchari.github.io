@@ -26,7 +26,6 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
   - Learning about concurrency
 
 
-
 # [Skills](pages/skills.md)
 
 # [Experience](pages/experience.md)
