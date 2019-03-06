@@ -24,11 +24,9 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
   - Learning about concurrency
 
 
-
 # Skills
 
 #### Languages: 
-
 | Proficient | Learning |
 | :--------- | :------- |
 | Java       | C++      |
@@ -41,7 +39,6 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
 
 
 #### Tools: 
-
 | Proficient | Learning |
 | ---------- | -------- |
 | Git        | Docker   |
