@@ -11,7 +11,7 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
 # Education
 ```
 University of Illinois at Urbana Champaign
-*Computer Science '22*
+Computer Science '22
 ```
 
 # Current Interests
