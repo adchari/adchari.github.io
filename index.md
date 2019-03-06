@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adithya Chari
-tagline: Personal Website
+tagline: Main page
 description: A personal webpage for Adithya Chari.
 ---
 
@@ -25,26 +25,8 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
 
 
 
-# Skills
+# [Skills](pages/skills.md)
 
-#### Languages: 
+# [Experience](pages/experience.md)
 
-| Proficient | Learning |
-| :--------- | :------- |
-| Java       | C++      |
-| PHP        | C#       |
-| SQL        | Python   |
-| JavaScript | Haskell  |
-| Android    | Go       |
-| Swift      |          |
-
-
-
-#### Tools: 
-
-| Proficient | Learning |
-| ---------- | -------- |
-| Git        | Docker   |
-| Linux/Bash | Vim      |
-| LaTeX      | Emacs    |
-
+# [Personal Projects](pages/projects.md)
