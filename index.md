@@ -25,7 +25,28 @@ I am an undergraduate student at the University of Illinois in the Computer Scie
 
 
 
-# [Skills](pages/skills.md)
+# Skills
+
+#### Languages: 
+
+| Proficient | Learning |
+| :--------- | :------- |
+| Java       | C++      |
+| PHP        | C#       |
+| SQL        | Python   |
+| JavaScript | Haskell  |
+| Android    | Go       |
+| Swift      |          |
+
+
+
+#### Tools: 
+
+| Proficient | Learning |
+| ---------- | -------- |
+| Git        | Docker   |
+| Linux/Bash | Vim      |
+| LaTeX      | Emacs    |
 
 # [Experience](pages/experience.md)
 
