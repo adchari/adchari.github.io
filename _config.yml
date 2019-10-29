@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 exclude: ["ReadMe.md"]
 
 title : Adithya Chari
-description : A blog.
 show_downloads: false
 author : 
   name : Adithya Chari

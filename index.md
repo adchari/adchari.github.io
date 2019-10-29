@@ -6,23 +6,18 @@ description: A personal webpage for Adithya Chari.
 ---
 
 
-# Blog.
+# [Learning About Machines](pages/LearningAboutMachines.md)
 
-### [Learning About Machines](pages/LearningAboutMachines.md)
+> Adventures in studying computer science and observations on education.
 
-```
-Adventures in studying computer science and observations on education.
-```
+# [Technical Notes](pages/TechnicalNotes.md)
 
-### [Technical Notes](pages/TechnicalNotes.md)
-```
-Thoughts on tools and languages I find interesting.
-```
+> Thoughts on tools and languages I find interesting.
 
-### [Other Musings](pages/OtherMusings.md)
-```
-Observations on other aspects of life.
-```
+# [Other Musings](pages/OtherMusings.md)
+
+> Observations on other aspects of life.
 
 
-### [About Me](pages/about.md)
+# [About Me](pages/about.md)
+> Learn more about me.
