@@ -5,31 +5,24 @@ tagline: Main page
 description: A personal webpage for Adithya Chari.
 ---
 
-# About Me
-I am an undergraduate student at the University of Illinois in the Computer Science department. My personal interests include STEM education, learning new languages/technologies, and getting involved with research projects. Currently, I am involved with a team on campus that is bringing VR into the classroom, and another group that is automating video transcription for students with hearing disabilities.
 
-# Education
+# Blog.
+
+### [Learning About Machines](pages/LearningAboutMachines.md)
+
 ```
-University of Illinois at Urbana Champaign
-Computer Science '22
+Adventures in studying computer science and observations on education.
 ```
 
-# Current Interests
+### [Technical Notes](pages/TechnicalNotes.md)
+```
+Thoughts on tools and languages I find interesting.
+```
 
-- Virtual Reality
-  - Applications outside of gaming
-  - Classroom/educational usage
-- Education in Computer Science
-  - Opening up CS to more individuals
-  - Looking deeper into how students learn
-  - Promoting code literacy among more students
-- Languages
-  - Exploring new programming paradigms
-  - Learning about concurrency
+### [Other Musings](pages/OtherMusings.md)
+```
+Observations on other aspects of life.
+```
 
 
-# [Skills](pages/skills.md)
-
-# [Experience](pages/experience.md)
-
-# [Projects](pages/projects.md)
+### [About Me](pages/about.md)
