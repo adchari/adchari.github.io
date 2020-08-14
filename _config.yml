@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-exclude: ["ReadMe.md"]
+exclude: ["README.md"]
 
 title : Adithya Chari
 show_downloads: false
