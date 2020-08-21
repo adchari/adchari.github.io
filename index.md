@@ -12,7 +12,7 @@ description: A personal webpage for Adithya Chari.
 - My contact information can be found on this page, as well as an up-to-date resume. 
 
 ### What I've done
-- Designed a customer-facing network diagnostic tool while interning at **Cloudflare**. The tool gathers information like latency and packet routes from Cloudflare's 200 data centers, and gives customers visibility into networking issues. 
+- Designed a customer-facing network diagnostic tool while interning at **Cloudflare**. The tool gathers information like latency and packet routes from Cloudflare's 200 data centers, and gives customers visibility into networking issues ([Documentation](https://api.cloudflare.com/#diagnostics-traceroute)). 
 - Built an internal claims auditing application while interning at **Gallagher Bassett**. The application automated several processes, and allowed audit turnaround times to reduce from two weeks to 1-2 days.
 - Worked as course staff for **CS 374 - Intro to Algorithms and Models of Computation**. I graded assignments, assisted in course discussions, and helped students in office hours.
 - Maintained and updated the [UIUC honors program website](https://honors.illinois.edu), as well as the admissions databases, and an internal degree tracking system (**Campus Honors Program, UIUC**).
